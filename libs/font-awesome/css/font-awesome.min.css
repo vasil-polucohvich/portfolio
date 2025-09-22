@@ -39,3 +39,6 @@ bars:before {
 .fa-linkedin-square:before {
     content: "\f08c"
 }
+.fa-chevron-down:before {
+    content: "\f078"
+}
