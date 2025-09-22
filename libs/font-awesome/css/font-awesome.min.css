@@ -36,3 +36,6 @@
 bars:before {
     content: "\f0c9";
 }
+.fa-linkedin-square:before {
+    content: "\f08c"
+}
